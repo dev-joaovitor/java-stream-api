@@ -1,3 +1,5 @@
+package edu.joao.functional_interfaces.examples;
+
 import java.util.Arrays;
 import java.util.List;
 

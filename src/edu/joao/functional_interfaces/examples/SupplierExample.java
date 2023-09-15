@@ -1,3 +1,5 @@
+package edu.joao.functional_interfaces.examples;
+
 import java.util.List;
 import java.util.function.Supplier;
 import java.util.stream.Stream;
